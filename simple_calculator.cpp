@@ -45,4 +45,9 @@ int main()
         cin>>num2;
         cout<<num1<<"*"<<num2<<" = "<<num1*num2<<endl;
     }
+     else
+    {
+        cout<<"Invalid choice. Try again."<<endl;
+    }
+    return 0;
 }
