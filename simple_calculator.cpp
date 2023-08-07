@@ -27,4 +27,13 @@ int main()
         cin>> num2;
         cout<<num1<<"-"<<num2<<" = "<<num1-num2<<endl;
     }
+    if (choice == 3)
+    {
+        float num1;
+        float num2;
+        cout<<"Enter two numbers to divide: "<<endl;
+        cin>>num1;
+        cin>>num2;
+        cout<<num1<<"/"<<num2<<" = "<<num1/num2<<endl;
+    }
 }
