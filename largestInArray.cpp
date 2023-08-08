@@ -14,3 +14,11 @@ for (int i=0; i<size;i++){
 }
 cout<<"THE LARGEST ELEMENT IN THE ARRAY"<<largestInArray;
 };
+
+int main()
+{
+  int largestInArray(int myArray, int size);
+  cout<<largestInArray;
+
+    return 0;
+}
