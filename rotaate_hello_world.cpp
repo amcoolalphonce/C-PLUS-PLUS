@@ -71,4 +71,13 @@ int main()
     }
     cout<<endl;
     Sleep(1000);
+
+    cout<<"ROTATION 270 DEGREES"<<endl;
+    for(int i=4; i>=0;i--)
+    {
+        cout<< helloString[i]<<endl;
+    }
+    cout<<endl;
+    Sleep(1000);
+
 }
