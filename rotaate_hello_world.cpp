@@ -60,4 +60,15 @@ int main()
     cout<<endl;
     Sleep(1000);
 
+    cout<<"ROTATION 225 DEGREES"<<endl;
+    for(int i=0; i<5;i++)
+    {
+        for(int spaces=0; spaces<i;spaces++)
+        {
+            cout<<" ";
+        }
+        cout<< helloString[5-(i+1)]<<endl;
+    }
+    cout<<endl;
+    Sleep(1000);
 }
