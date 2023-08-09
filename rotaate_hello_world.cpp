@@ -28,4 +28,13 @@ int main()
     }
     cout<<endl;
     Sleep(1000);
+
+     cout<<"ROTATION 90 DEGREES"<<endl;
+    cout<<endl<<endl<<endl<<endl<<endl;
+    for(int i=0; i<=4; i++)
+    {
+    cout<< helloString[i]<<endl;
+    }
+    cout<<endl;
+    Sleep(1000);
 }
