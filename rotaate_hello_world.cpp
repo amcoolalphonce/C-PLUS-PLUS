@@ -89,4 +89,5 @@ int main()
         }
         cout<< helloString[4-i]<<endl;
     }
+    return 0;
 }
