@@ -80,4 +80,13 @@ int main()
     cout<<endl;
     Sleep(1000);
 
+    cout<<"R0TATION 315 DEGREES"<<endl;
+    for(int i=0; i<5; i++)
+    {
+        for(int spaces=0;spaces<4-i;spaces++)
+        {
+            cout<<" ";
+        }
+        cout<< helloString[4-i]<<endl;
+    }
 }
