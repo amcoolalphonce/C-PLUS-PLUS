@@ -37,4 +37,12 @@ int main()
     cout<< "SELECT A FUNCTION TO USE:";
     int selectedFunction;
     cin >> selectedFunction;
+
+    if(selectedFunction==1)//SUMMATION SELECTED
+    {
+        cout<<"ENTER TWO NUMBERS TO SUM:"<<endl;
+        int Number1,Number2;
+        cin>>Number1>>Number2;
+        cout<<Number1<<"+"<< Number2<<"="<<(Number1+Number2)<<endl;
+    }
 }
