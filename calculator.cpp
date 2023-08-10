@@ -45,4 +45,12 @@ int main()
         cin>>Number1>>Number2;
         cout<<Number1<<"+"<< Number2<<"="<<(Number1+Number2)<<endl;
     }
+
+    else if(selectedFunction==2)//SUBTRACTION SELECTED
+    {
+        cout<<"ENTER TWO NUMBERS TO SUBTRACT:"<<endl;
+        int Number1,Number2;
+        cin>>Number1>>Number2;
+        cout<<Number1<<"-"<<Number2<<"=="<<(Number1-Number2)<<endl;
+    }
 }
