@@ -53,4 +53,12 @@ int main()
         cin>>Number1>>Number2;
         cout<<Number1<<"-"<<Number2<<"=="<<(Number1-Number2)<<endl;
     }
+
+    else if(selectedFunction==3)//MULTIPLICATION SELECTED
+    {
+        cout<<"ENTER TWO NUMBERS TO MULTIPLY:"<<endl;
+        int Number1,Number2;
+        cin>>Number1>>Number2;
+        cout<<Number1<<"*"<<Number2<<"=="<<(Number1*Number2)<<endl;
+    }
 }
