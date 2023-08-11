@@ -115,5 +115,13 @@ int main()
         cin>>Number1;
         cout<< "cos" << Number1 <<" = "<< cos(Number1) <<endl;
    }
+
+   else if(selectedFunction==10)//SINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "sin" << Number1 <<" = "<< sin(Number1) <<endl;
+   }
 }
 //still underway coding
