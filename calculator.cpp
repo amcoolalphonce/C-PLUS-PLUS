@@ -69,5 +69,13 @@ int main()
         cin>>Number1>>Number2;
         cout<<Number1<<"/"<<Number2<<"=="<<(Number1/Number2)<<endl;
     }
+
+    else if(selectedFunction==5)//MODULUS SELECTED
+   {
+       cout<<"ENTER TWO NUMBERS TO FIND MODULUS:"<<endl;
+        int Number1,Number2;
+        cin>>Number1>>Number2;
+        cout<<Number1<<"%"<<Number2<<"=="<<(Number1%Number2)<<endl;
+   }
 }
 //still underway coding
