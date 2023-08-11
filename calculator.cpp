@@ -69,5 +69,59 @@ int main()
         cin>>Number1>>Number2;
         cout<<Number1<<"/"<<Number2<<"=="<<(Number1/Number2)<<endl;
     }
+
+    else if(selectedFunction==5)//MODULUS SELECTED
+   {
+       cout<<"ENTER TWO NUMBERS TO FIND MODULUS:"<<endl;
+        int Number1,Number2;
+        cin>>Number1>>Number2;
+        cout<<Number1<<"%"<<Number2<<"=="<<(Number1%Number2)<<endl;
+   }
+
+   else if(selectedFunction==6)//TRUNCATION SELECTED
+   {
+       cout<<"ENTER NUMBER TO FIND TRUNCUATE:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<<"The truncate of"<<Number1<<"is "<<trunc(Number1)<<endl;
+   }
+
+   else if(selectedFunction==7)//CEIL SELECTED
+   {
+       cout<<"ENTER NUMBER TO FIND CEIL:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<<"The ceil of"<<Number1<<"is"<<ceil(Number1)<<endl;
+   }
+
+    else if(selectedFunction==8)//POWER SELECTED
+   {
+    cout<<"ENTER NUMBERS TO FIND POWER:"<<endl;
+    int exponent;
+    float base,result=1;
+    cout<< "enter base and exponent respectively"<<endl;
+    cin>> base,exponent;
+    cout<<base<<"^"<< exponent <<"is"<< pow(base,exponent)<<endl;
+    while (exponent!=1)
+    {
+        result*=base;--exponent;
+    }
+   }
+
+   else if(selectedFunction==9)//COSINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "cos" << Number1 <<" = "<< cos(Number1) <<endl;
+   }
+
+   else if(selectedFunction==10)//SINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "sin" << Number1 <<" = "<< sin(Number1) <<endl;
+   }
 }
 //still underway coding
