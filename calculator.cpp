@@ -107,5 +107,13 @@ int main()
         result*=base;--exponent;
     }
    }
+
+   else if(selectedFunction==9)//COSINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "cos" << Number1 <<" = "<< cos(Number1) <<endl;
+   }
 }
 //still underway coding
