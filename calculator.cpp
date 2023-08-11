@@ -85,5 +85,13 @@ int main()
         cin>>Number1;
         cout<<"The truncate of"<<Number1<<"is "<<trunc(Number1)<<endl;
    }
+
+   else if(selectedFunction==7)//CEIL SELECTED
+   {
+       cout<<"ENTER NUMBER TO FIND CEIL:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<<"The ceil of"<<Number1<<"is"<<ceil(Number1)<<endl;
+   }
 }
 //still underway coding
