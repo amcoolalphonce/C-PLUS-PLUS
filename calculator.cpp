@@ -77,5 +77,13 @@ int main()
         cin>>Number1>>Number2;
         cout<<Number1<<"%"<<Number2<<"=="<<(Number1%Number2)<<endl;
    }
+
+   else if(selectedFunction==6)//TRUNCATION SELECTED
+   {
+       cout<<"ENTER NUMBER TO FIND TRUNCUATE:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<<"The truncate of"<<Number1<<"is "<<trunc(Number1)<<endl;
+   }
 }
 //still underway coding
