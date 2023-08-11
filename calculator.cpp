@@ -93,5 +93,19 @@ int main()
         cin>>Number1;
         cout<<"The ceil of"<<Number1<<"is"<<ceil(Number1)<<endl;
    }
+
+    else if(selectedFunction==8)//POWER SELECTED
+   {
+    cout<<"ENTER NUMBERS TO FIND POWER:"<<endl;
+    int exponent;
+    float base,result=1;
+    cout<< "enter base and exponent respectively"<<endl;
+    cin>> base,exponent;
+    cout<<base<<"^"<< exponent <<"is"<< pow(base,exponent)<<endl;
+    while (exponent!=1)
+    {
+        result*=base;--exponent;
+    }
+   }
 }
 //still underway coding
