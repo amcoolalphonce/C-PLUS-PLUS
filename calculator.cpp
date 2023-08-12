@@ -155,5 +155,13 @@ int main()
         cin>>Number1;
         cout<< "Hyperbolic tangent of" << Number1 << "is" <<tanh(Number1)<<endl;
    }
+
+   else if(selectedFunction==15)//HYPERBOLIC COSINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "Hyperbolic cosine of" << Number1 << "is" <<cosh(Number1)<<endl;
+   }
 }
 //still underway coding
