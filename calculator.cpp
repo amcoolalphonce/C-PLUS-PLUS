@@ -147,5 +147,13 @@ int main()
         cin>>Number1;
         cout<< "squareroot" << Number1 <<" = "<< sqrt(Number1) <<endl;
    }
+
+   else if(selectedFunction==14)//HYPERBOLIC TANGENT SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "Hyperbolic tangent of" << Number1 << "is" <<tanh(Number1)<<endl;
+   }
 }
 //still underway coding
