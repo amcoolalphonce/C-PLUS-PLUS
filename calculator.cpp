@@ -139,5 +139,13 @@ int main()
         cin>>Number1;
         cout<< "The logarithm to Base-10 of" << Number1 <<"is"<< log(Number1) <<endl;
    }
+
+   else if(selectedFunction==13)//SQUAREROOT SELECTED
+   {
+       cout<<"Enter the Number:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "squareroot" << Number1 <<" = "<< sqrt(Number1) <<endl;
+   }
 }
 //still underway coding
