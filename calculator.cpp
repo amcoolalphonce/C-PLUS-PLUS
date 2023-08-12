@@ -131,5 +131,13 @@ int main()
         cin>>Number1;
         cout<< "tan" << Number1 <<" = "<< tan(Number1) <<endl;
    }
+
+    else if(selectedFunction==12)//LOGARITHM SELECTED
+   {
+       cout<<"Enter the value to whose logarithm to base 10 you want:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "The logarithm to Base-10 of" << Number1 <<"is"<< log(Number1) <<endl;
+   }
 }
 //still underway coding
