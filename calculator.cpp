@@ -123,5 +123,53 @@ int main()
         cin>>Number1;
         cout<< "sin" << Number1 <<" = "<< sin(Number1) <<endl;
    }
+
+   else if(selectedFunction==11)//TANGENT SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "tan" << Number1 <<" = "<< tan(Number1) <<endl;
+   }
+
+    else if(selectedFunction==12)//LOGARITHM SELECTED
+   {
+       cout<<"Enter the value to whose logarithm to base 10 you want:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "The logarithm to Base-10 of" << Number1 <<"is"<< log(Number1) <<endl;
+   }
+
+   else if(selectedFunction==13)//SQUAREROOT SELECTED
+   {
+       cout<<"Enter the Number:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "squareroot" << Number1 <<" = "<< sqrt(Number1) <<endl;
+   }
+
+   else if(selectedFunction==14)//HYPERBOLIC TANGENT SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "Hyperbolic tangent of" << Number1 << "is" <<tanh(Number1)<<endl;
+   }
+
+   else if(selectedFunction==15)//HYPERBOLIC COSINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "Hyperbolic cosine of" << Number1 << "is" <<cosh(Number1)<<endl;
+   }
+//Hyperbolic sine
+   else if(selectedFunction==16)//HYPERBOLIC SINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "Hyperbolic sine of" << Number1 << "is" <<sinh(Number1)<<endl;
+   }
 }
 //still underway coding
