@@ -163,5 +163,13 @@ int main()
         cin>>Number1;
         cout<< "Hyperbolic cosine of" << Number1 << "is" <<cosh(Number1)<<endl;
    }
+//Hyperbolic sine
+   else if(selectedFunction==16)//HYPERBOLIC SINE SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "Hyperbolic sine of" << Number1 << "is" <<sinh(Number1)<<endl;
+   }
 }
 //still underway coding
