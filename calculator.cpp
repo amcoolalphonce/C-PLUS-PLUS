@@ -123,5 +123,13 @@ int main()
         cin>>Number1;
         cout<< "sin" << Number1 <<" = "<< sin(Number1) <<endl;
    }
+
+   else if(selectedFunction==11)//TANGENT SELECTED
+   {
+       cout<<"Enter the angle:"<<endl;
+        int Number1;
+        cin>>Number1;
+        cout<< "tan" << Number1 <<" = "<< tan(Number1) <<endl;
+   }
 }
 //still underway coding
