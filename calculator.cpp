@@ -211,5 +211,13 @@ int main()
         cin>>Number1;
         cout<< "The inverse cosine of" << Number1 << "is" <<acos(Number1)<<endl;
    }
+
+   else if(selectedFunction==22)//INVERSE OF SINE SELECTED
+     {
+       cout<<"Enter the angle whose inverse of sine you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout << "The inverse sine of"<<Number1<<"is"<<asin(Number1)<<"radians"<<endl;
+     }
 }
 //still underway coding
