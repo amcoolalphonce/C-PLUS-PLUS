@@ -195,5 +195,13 @@ int main()
         cout<< "The round  of" <<Number1<< "is"<<round(Number1)<<endl;
 
     }
+
+    else if(selectedFunction==20)//INVERSE OF TANGENT SELECTED
+     {
+       cout<<"Enter the angle whose inverse of tangent you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The inverse tangent of" << Number1 << "is" <<atan(Number1)<<"radians"<<endl;
+   }
 }
 //still underway coding
