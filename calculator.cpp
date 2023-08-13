@@ -219,7 +219,7 @@ int main()
         cin>>Number1;
         cout << "The inverse sine of"<<Number1<<"is"<<asin(Number1)<<"radians"<<endl;
      }
-
+//FLOOR
      else if(selectedFunction==23)//FLOOR SELECTED
      {
        cout<<"Enter the numbers whose floor you want to find:"<<endl;
@@ -227,7 +227,7 @@ int main()
         cin>>Number1,Number2;
         cout<< "The Floor of" << Number1 << "==" <<floor(Number1)<<endl;
      }
-
+//CUBE
      else if(selectedFunction==24)//CUBE SELECTED
      {
        cout<<"Enter the numbers whose cube you want to find:"<<endl;
@@ -237,4 +237,4 @@ int main()
      }
      return 0;
 }
-//still underway coding
+//CODE FINISHED
