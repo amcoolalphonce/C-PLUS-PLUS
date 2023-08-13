@@ -179,5 +179,12 @@ int main()
         cin>>Number1;
         cout<< "The natural logarithm value (base-e) of" << Number1<< "is"<<log(Number1)<<endl;
    }
+//base 10
+   {
+       cout<<"Enter the value to whose  logarithm base 10 you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The logarithm value (base-10) of" <<Number1<< "is"<<log(Number1)<<endl;
+   }
 }
 //still underway coding
