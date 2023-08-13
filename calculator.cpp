@@ -235,5 +235,6 @@ int main()
         cin>>Number;
         cout<< Number <<"^3" << "=" <<(Number*Number*Number)<<endl;
      }
+     return 0;
 }
 //still underway coding
