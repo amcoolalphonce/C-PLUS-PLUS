@@ -227,5 +227,13 @@ int main()
         cin>>Number1,Number2;
         cout<< "The Floor of" << Number1 << "==" <<floor(Number1)<<endl;
      }
+
+     else if(selectedFunction==24)//CUBE SELECTED
+     {
+       cout<<"Enter the numbers whose cube you want to find:"<<endl;
+        int Number;
+        cin>>Number;
+        cout<< Number <<"^3" << "=" <<(Number*Number*Number)<<endl;
+     }
 }
 //still underway coding
