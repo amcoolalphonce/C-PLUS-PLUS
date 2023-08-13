@@ -171,5 +171,13 @@ int main()
         cin>>Number1;
         cout<< "Hyperbolic sine of" << Number1 << "is" <<sinh(Number1)<<endl;
    }
+//natural logarithm
+    else if(selectedFunction==17)//NATURAL LOGARITHM SELECTED
+   {
+       cout<<"Enter the value to whose natural logarithm you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The natural logarithm value (base-e) of" << Number1<< "is"<<log(Number1)<<endl;
+   }
 }
 //still underway coding
