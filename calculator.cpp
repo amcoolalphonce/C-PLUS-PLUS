@@ -171,5 +171,70 @@ int main()
         cin>>Number1;
         cout<< "Hyperbolic sine of" << Number1 << "is" <<sinh(Number1)<<endl;
    }
+//natural logarithm
+    else if(selectedFunction==17)//NATURAL LOGARITHM SELECTED
+   {
+       cout<<"Enter the value to whose natural logarithm you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The natural logarithm value (base-e) of" << Number1<< "is"<<log(Number1)<<endl;
+   }
+//base 10
+   {
+       cout<<"Enter the value to whose  logarithm base 10 you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The logarithm value (base-10) of" <<Number1<< "is"<<log(Number1)<<endl;
+   }
+   
+   else if(selectedFunction==19)//ROUNDING OFF SELECTED
+    {
+       cout<<"Enter the value to which you want to round off:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The round  of" <<Number1<< "is"<<round(Number1)<<endl;
+
+    }
+
+    else if(selectedFunction==20)//INVERSE OF TANGENT SELECTED
+     {
+       cout<<"Enter the angle whose inverse of tangent you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The inverse tangent of" << Number1 << "is" <<atan(Number1)<<"radians"<<endl;
+   }
+
+   else if(selectedFunction==21)//INVERSE OF COSINE SELECTED
+     {
+       cout<<"Enter the angle whose inverse of cosine you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The inverse cosine of" << Number1 << "is" <<acos(Number1)<<endl;
+   }
+
+   else if(selectedFunction==22)//INVERSE OF SINE SELECTED
+     {
+       cout<<"Enter the angle whose inverse of sine you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout << "The inverse sine of"<<Number1<<"is"<<asin(Number1)<<"radians"<<endl;
+     }
+//FLOOR
+     else if(selectedFunction==23)//FLOOR SELECTED
+     {
+       cout<<"Enter the numbers whose floor you want to find:"<<endl;
+        int Number1,Number2;
+        cin>>Number1,Number2;
+        cout<< "The Floor of" << Number1 << "==" <<floor(Number1)<<endl;
+     }
+//CUBE
+     else if(selectedFunction==24)//CUBE SELECTED
+     {
+       cout<<"Enter the numbers whose cube you want to find:"<<endl;
+        int Number;
+        cin>>Number;
+        cout<< Number <<"^3" << "=" <<(Number*Number*Number)<<endl;
+     }
+     return 0;
 }
-//still underway coding
+//CODE FINISHED
