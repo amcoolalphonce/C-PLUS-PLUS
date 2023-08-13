@@ -186,5 +186,14 @@ int main()
         cin>>Number1;
         cout<< "The logarithm value (base-10) of" <<Number1<< "is"<<log(Number1)<<endl;
    }
+   
+   else if(selectedFunction==19)//ROUNDING OFF SELECTED
+    {
+       cout<<"Enter the value to which you want to round off:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The round  of" <<Number1<< "is"<<round(Number1)<<endl;
+
+    }
 }
 //still underway coding
