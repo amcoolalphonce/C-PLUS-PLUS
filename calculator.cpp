@@ -203,5 +203,13 @@ int main()
         cin>>Number1;
         cout<< "The inverse tangent of" << Number1 << "is" <<atan(Number1)<<"radians"<<endl;
    }
+
+   else if(selectedFunction==21)//INVERSE OF COSINE SELECTED
+     {
+       cout<<"Enter the angle whose inverse of cosine you want:"<<endl;
+        double Number1;
+        cin>>Number1;
+        cout<< "The inverse cosine of" << Number1 << "is" <<acos(Number1)<<endl;
+   }
 }
 //still underway coding
