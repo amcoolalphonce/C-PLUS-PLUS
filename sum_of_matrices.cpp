@@ -35,4 +35,6 @@ int main()
 
             return sum;
         }
+
+        return 0;
 }
