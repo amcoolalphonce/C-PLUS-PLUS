@@ -14,4 +14,7 @@ int main()
     cin>>columns;
 
     int sum[rows][columns];
+
+    sum[2][2]={{2,2},{2,2}};
+    sum[rows][columns]={}
 }
