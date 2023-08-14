@@ -12,4 +12,6 @@ int main()
     cin>>rows;
     cout<<"\nEnter the number of columns of the matrix \n";
     cin>>columns;
+
+    int sum[rows][columns];
 }
