@@ -25,4 +25,9 @@ int main()
     //note that since we are adding the dimension of matrix ONE==TWO
     cout<<"Enter matrix two members"<<endl;
     for(i=0;i<rows;i++) for(j=0;j<columns;j++)
+
+     {
+            cin>>two[i][j];
+    }
+    
 }
