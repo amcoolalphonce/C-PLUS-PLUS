@@ -29,5 +29,10 @@ int main()
      {
             cin>>two[i][j];
     }
-    
+    for(i=0;i<rows;i++)for(j=0;j<columns;j++)
+        {
+       sum[i][j]=one[i][j]+two[i][j];
+
+            return sum;
+        }
 }
