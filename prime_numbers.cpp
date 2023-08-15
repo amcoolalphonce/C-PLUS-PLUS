@@ -4,8 +4,8 @@ usinng namsespce std;
 
 int main()
 {
-    int i,j;
-    for (int i=2; i<100; i++)//rime numbers between 2 and 100
+    int i, j;
+    for (i=2; i<100; i++)//prime numbers between 2 and 100
     {
         for(j=2;j<=i/j;j++)
         {
@@ -13,9 +13,6 @@ int main()
             {
                 break;
             }
-
-            if(j>(i/j))
-            cout<<i<<" is a prime number"<<endl;
         }
     }
     return 0;
