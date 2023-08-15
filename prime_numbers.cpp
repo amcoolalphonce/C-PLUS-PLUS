@@ -14,6 +14,10 @@ int main()
                 break;
             }
         }
+        if (j>(i/j))
+        {
+            cout<<i<<"is a rime number"<<endl;
+        }
     }
     return 0;
 }
