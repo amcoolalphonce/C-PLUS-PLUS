@@ -9,7 +9,14 @@ int main()
     {
         for(j=2;j<=i/j;j++)
         {
-            if (!(i%j)):
+            if (!(i%j))
+            {
+                break;
+            }
+
+            if(j>(i/j))
+            cout<<i<<" is a prime number"<<endl;
         }
     }
+    return 0;
 }
