@@ -8,4 +8,5 @@ int main()
     cout<<"Size of  long int: "<<sizeof(long int)<<endl;
     cout<<"Size of  float: "<<sizeof(float)<<endl;
     cout<<"Size of double : "<<sizeof(double)<<endl;
+    cout<<"Size of wchart_t : "<<sizeof(wchar_t)<<endl;
 }
