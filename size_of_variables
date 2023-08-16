@@ -1,3 +1,6 @@
 #include<iostream>
 using namespacestd;
 int main()
+{
+    cout<<"Size of  : "<<sizeof()<<endl;
+}
