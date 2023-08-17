@@ -5,5 +5,7 @@ using namespace std;
 
 int main()
 {
-
+        double number;
+        cout<<"Enter a number to find the square root"<<endl;
+        cin>>number;
 }
