@@ -1,4 +1,4 @@
-#include<iosttream>
+#include<iostream>
 
 usinng namsespce std;
 
