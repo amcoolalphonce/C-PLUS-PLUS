@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-        int a = 100;
-        int b= 45;
-        
+        float  a, b;
+        cout<<"Enter two numbers to swap: "<<endl;
+        cin>>a>>b;
+
 }
