@@ -12,6 +12,7 @@ int main()
         float temp = a;
         a = b;
         b = temp;
-
-        
+        //after swap
+        cout<<"Value of a  = "<<a<<endl;
+        cout<<"Value of b  = "<<b<<endl;
 }
