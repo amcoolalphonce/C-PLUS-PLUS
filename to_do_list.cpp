@@ -69,6 +69,15 @@ int main()
                                 todoList.addTask(task);
                                 break;
                         }
+                        case 2 :
+                        {
+                                int index;
+                                todoList.displayTasks();
+                                cout << "Enter task index to remove: ";
+                                cin >> index;
+                                todoList.removeTask(index - 1);
+                                break;
+                        }
                 }
         }
 }
