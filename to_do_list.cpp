@@ -83,6 +83,14 @@ int main()
                                 todoList.displayTasks();
                                 break;
                         }
+                        case 4 :
+                        {
+                                cout<<"Exiting."<<endl;
+                                break;
+                        }
+                        default :
+                                cout<<"Invalid choice . Please enter a valid option. "
+                                break;;
                 }
         }
 }
