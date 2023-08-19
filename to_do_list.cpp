@@ -63,6 +63,11 @@ int main()
                         case 1:
                         {
                                 string task;
+                                cout << "Enter task: ";
+                                 cin.ignore(); // Clear the newline character
+                                getline(cin, task);
+                                todoList.addTask(task);
+                                break;
                         }
                 }
         }
