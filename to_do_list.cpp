@@ -26,4 +26,11 @@ public:
                         cout<<"Invalid task index "<<endl;
                 }
         }
+        void displayTasks()
+        {
+                if (tasks.empty())
+                {
+                        cout<<"No tasks in the list"<<endl;
+                }
+        }
 }
