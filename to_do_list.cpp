@@ -32,5 +32,13 @@ public:
                 {
                         cout<<"No tasks in the list"<<endl;
                 }
+                else 
+                {
+                        cout<<"Tasks in the list:"<<endl;
+                        for (size_t i = 0; i <tasks.size(); i++)
+                        {
+                                cout<< i + 1<<". "<<tasks[i]<<endl;
+                        }
+                }
         }
-}
+};
