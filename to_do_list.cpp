@@ -48,5 +48,22 @@ int main()
         toDoList todoList;
         int choice;
 
-        
+        do 
+        {
+                cout << "Menu:" << endl;
+                cout << "1. Add Task" << endl;
+                cout << "2. Remove Task" << endl;
+                cout << "3. Display Tasks" << endl;
+                c out << "4. Exit" << endl;
+                cout << "Enter your choice: ";
+                cin >> choice;
+
+                switch (choice)
+                {
+                        case 1:
+                        {
+                                string task;
+                        }
+                }
+        }
 }
