@@ -9,4 +9,9 @@ private:
         vector<string> tasks;
 
 public:
+        void addTask(const string & task)
+        {
+                tasks.push_back(task);
+                cout<<"Task added: "<<task<<endl;
+        }
 }
