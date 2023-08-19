@@ -78,6 +78,11 @@ int main()
                                 todoList.removeTask(index - 1);
                                 break;
                         }
+                        case 3 :
+                        {
+                                todoList.displayTasks();
+                                break;
+                        }
                 }
         }
 }
