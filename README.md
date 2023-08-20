@@ -1,2 +1,3 @@
 # C++
-This is page where I post the different codes for C++ that achieve  specific tasks described on the line comments at each beginning of code files.
+These are working C++ codes that work to impelement varous tasks as studied in #C++ Computer Classes. 
+The #working of the files is clearly stated at the beggining of each code
