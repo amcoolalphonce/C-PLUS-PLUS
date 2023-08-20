@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
         char unit;
-        double temeperature
+        double temperature;
         cout<<"Enter the temperature unit you want to convert: C for Celsius or F for Fahrenheit:  "<<endl;
-        cin>>unitr;
+        cin>>unit;
 
         if (unit == 'F' || unit == 'f') 
         {
@@ -14,6 +14,7 @@ int main()
 
                 // Convert Fahrenheit to Celsius
                 double celsius = (temperature - 32) * 5 / 9;
+                cout<<"Temperature in Celsius: "<< celsius<<" °C"<<endl;
         }
         else if (unit == 'C' || unit == 'c') 
         {
