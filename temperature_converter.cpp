@@ -14,6 +14,7 @@ int main()
 
                 // Convert Fahrenheit to Celsius
                 double celsius = (temperature - 32) * 5 / 9;
+                cout<<"Temperature in Celsius: "<< celsius<<" °C"<<endl;
         }
         else if (unit == 'C' || unit == 'c') 
         {
