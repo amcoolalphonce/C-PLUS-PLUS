@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-        cout<<"Enter your temperature unit"<<endl;
-        string unit = ""
+        char unit;
+        cout<<"Enter the temperature unit you want to convert: C for Celsius or F for Fahrenheit:  "<<endl;
+        cin>>char;
 }
