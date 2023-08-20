@@ -22,5 +22,8 @@ int main()
                 double fahrenheit = (temperature * (9/5) + 32);
                 cout << "Temperature in Fahrenheit: " << fahrenheit << " °F" << endl;
        } 
-
+       else
+       {
+        cout<<"Invalid unit! Please enter 'F' or 'C' "<<endl;
+       }
 }
