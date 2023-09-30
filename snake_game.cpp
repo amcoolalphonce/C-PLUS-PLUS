@@ -33,7 +33,9 @@ void Draw()
         {
                 for (int j = 0; j < width; j++)
                 {
-                        
-                }
+                        {
+                                if (j == 0)
+                                        cout << "#";
+                        }
         }
 }
