@@ -21,3 +21,5 @@ void Setup()
         fruitY = rand() % height;
         score = 0;
 }
+
+void Draw()
