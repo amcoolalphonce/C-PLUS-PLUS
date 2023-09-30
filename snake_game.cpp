@@ -37,6 +37,7 @@ void Draw()
                                 if (j == 0)
                                         cout << "#";
                                 if (i == y && j == x)
+                                        cout << "O";
                         }
         }
 }
