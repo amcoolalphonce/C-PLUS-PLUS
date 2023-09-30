@@ -27,5 +27,5 @@ void Draw()
         system("cls");
         for (int i = 0; i < width + 2; i++)
                 cout << "#";
-                
+                cout << endl;
 }
