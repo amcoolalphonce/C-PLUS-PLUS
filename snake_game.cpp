@@ -23,3 +23,6 @@ void Setup()
 }
 
 void Draw()
+{
+        system("cls");
+}
