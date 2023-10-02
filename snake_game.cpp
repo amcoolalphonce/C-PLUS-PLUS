@@ -45,7 +45,11 @@ void Draw()
                                         bool printTail = false;
                                         for (int k = 0; k < nTail; k++)
                                         {
-                                                
+                                                if (tailX[k] == j && tailY[k] == i)
+                                                {
+                                                        cout << "o"; // Snake tail
+                                                        printTail = true;
+                                                }
                                         }
                                 }
         }
