@@ -66,3 +66,8 @@ void Draw()
                   cout << "Score:" << score << endl;
         }
 }
+
+void Input()
+{
+        if
+}
