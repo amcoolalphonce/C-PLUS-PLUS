@@ -54,5 +54,7 @@ void Draw()
                                         if (!printTail)
                                                 cout << " ";
                                 }
+                                if (j == width - 1)
+                                        cout << "#"; 
         }
 }
