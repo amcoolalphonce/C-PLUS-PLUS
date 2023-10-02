@@ -58,10 +58,11 @@ void Draw()
                                         cout << "#"; 
                         }
                         cout<<endl;
-        }
-        for (int i = 0; i < width + 2; i++)
+                 }
+                for (int i = 0; i < width + 2; i++)
                         cout << "#";
 
-        cout << endl;
-        cout << "Score:" << score << endl;
+                 cout << endl;  
+                  cout << "Score:" << score << endl;
+        }
 }
