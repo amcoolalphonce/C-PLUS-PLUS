@@ -68,3 +68,6 @@ void Draw()
 }
 
 void Input()
+{
+        if
+}
