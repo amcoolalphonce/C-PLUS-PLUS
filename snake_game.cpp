@@ -51,6 +51,8 @@ void Draw()
                                                         printTail = true;
                                                 }
                                         }
+                                        if (!printTail)
+                                                cout << " ";
                                 }
         }
 }
