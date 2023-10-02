@@ -57,5 +57,6 @@ void Draw()
                                 if (j == width - 1)
                                         cout << "#"; 
                         }
+                        cout<<endl;
         }
 }
