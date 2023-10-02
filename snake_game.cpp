@@ -47,7 +47,7 @@ void Draw()
                                         {
                                                 if (tailX[k] == j && tailY[k] == i)
                                                 {
-                                                        cout << "o"; // Snake tail
+                                                        cout << "o"; 
                                                         printTail = true;
                                                 }
                                         }
