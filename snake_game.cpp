@@ -101,4 +101,7 @@ void Logic()
         tailY[0] = y;
 
         for (int i = 1; i < nTail; i++)
+        {
+                prev2X = tailX[i];
+        }
 }
