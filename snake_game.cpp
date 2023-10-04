@@ -79,6 +79,9 @@ void Input()
                 case 'd':
                         dir = RIGHT;
                         break;
+                case 'e':
+                        dir = UP;
+                        break;
                 }
         }
 }
