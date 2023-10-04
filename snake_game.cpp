@@ -95,4 +95,5 @@ void Input()
 void Logic()
 {
         int prevX = tailX[0];
+        int prevY = tailY[0];
 }
