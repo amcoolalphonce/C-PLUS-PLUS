@@ -76,6 +76,9 @@ void Input()
                 case 's':
                         dir = LEFT;
                         break;
+                case 'd':
+                        dir = RIGHT;
+                        break;
                 }
         }
 }
