@@ -69,5 +69,5 @@ void Draw()
 
 void Input()
 {
-        if
+        if (_kbhit())
 }
