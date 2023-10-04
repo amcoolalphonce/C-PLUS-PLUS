@@ -107,5 +107,6 @@ void Logic()
                 tailX[i] = prevX;
                 tailY[i] = prevY;
                 prevX = prev2X;
+                prevY = prev2Y;
         }
 }
