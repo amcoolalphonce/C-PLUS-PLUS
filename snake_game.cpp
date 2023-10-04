@@ -72,5 +72,10 @@ void Input()
         if (_kbhit())
         {
                 switch (_getch())
+                {
+                case 's':
+                        dir = LEFT;
+                        break;
+                }
         }
 }
