@@ -103,5 +103,7 @@ void Logic()
         for (int i = 1; i < nTail; i++)
         {
                 prev2X = tailX[i];
+                prev2Y = tailY[i];
+                tailX[i] = prevX;
         }
 }
