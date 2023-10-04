@@ -91,3 +91,8 @@ void Input()
                 }
         }
 }
+
+void Logic()
+{
+        int prevX = tailX[0];
+}
