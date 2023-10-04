@@ -98,4 +98,5 @@ void Logic()
         int prevY = tailY[0];
         int prev2X, prev2Y;
         tailX[0] = x;
+        tailY[0] = y;
 }
