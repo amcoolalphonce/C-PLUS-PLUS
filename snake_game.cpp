@@ -85,6 +85,9 @@ void Input()
                 case 'x':
                         dir = DOWN;
                         break;
+                case 'q':
+                        gameOver = true;
+                        break;
                 }
         }
 }
