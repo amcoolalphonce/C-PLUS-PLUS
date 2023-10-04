@@ -69,5 +69,32 @@ void Draw()
 
 void Input()
 {
-        if
+        if (_kbhit())
+        {
+                switch (_getch())
+                {
+                case 's':
+                        dir = LEFT;
+                        break;
+                case 'd':
+                        dir = RIGHT;
+                        break;
+                case 'e':
+                        dir = UP;
+                        break;
+                case 'x':
+                        dir = DOWN;
+                        break;
+                case 'q':
+                        gameOver = true;
+                        break;
+                }
+        }
+}
+
+void Logic()
+{
+        int prevX = tailX[0];
+        int prevY = tailY[0];
+        int prev2X, prev2Y;
 }
