@@ -70,4 +70,7 @@ void Draw()
 void Input()
 {
         if (_kbhit())
+        {
+                switch (_getch())
+        }
 }
