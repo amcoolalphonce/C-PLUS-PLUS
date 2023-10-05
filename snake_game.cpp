@@ -132,4 +132,6 @@ void Logic()
                 x = width - 1;
         if (y >= height)
                 y = 0;
+        else if (y < 0)
+                y = height - 1;
 }
