@@ -124,5 +124,6 @@ void Logic()
                 y++;
                 break;
         default:
+                break;
         }
 }
