@@ -113,5 +113,6 @@ void Logic()
         {
         case LEFT:
                 x--;
+                break;
         }
 }
