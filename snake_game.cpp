@@ -118,6 +118,6 @@ void Logic()
                 x++;
                 break;
         case UP:
-                
+                y--;
         }
 }
