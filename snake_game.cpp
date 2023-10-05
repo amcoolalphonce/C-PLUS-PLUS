@@ -126,4 +126,6 @@ void Logic()
         default:
                 break;
         }
+        if (x >= width)
+                x = 0;
 }
