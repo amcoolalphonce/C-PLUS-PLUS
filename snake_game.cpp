@@ -128,4 +128,6 @@ void Logic()
         }
         if (x >= width)
                 x = 0;
+        else if (x < 0)
+                x = width - 1;
 }
