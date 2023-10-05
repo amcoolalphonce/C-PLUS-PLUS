@@ -119,5 +119,6 @@ void Logic()
                 break;
         case UP:
                 y--;
+                break;
         }
 }
