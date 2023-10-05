@@ -122,5 +122,6 @@ void Logic()
                 break;
         case DOWN:
                 y++;
+                break;
         }
 }
