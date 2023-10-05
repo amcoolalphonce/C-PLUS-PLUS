@@ -110,4 +110,7 @@ void Logic()
                 prevY = prev2Y;
         }
         switch (dir)
+        {
+        case LEFT:
+        }
 }
