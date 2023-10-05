@@ -115,5 +115,6 @@ void Logic()
                 x--;
                 break;
         case RIGHT:
+                x++;
         }
 }
