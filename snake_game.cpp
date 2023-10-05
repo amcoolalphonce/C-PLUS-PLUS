@@ -112,5 +112,6 @@ void Logic()
         switch (dir)
         {
         case LEFT:
+                x--;
         }
 }
