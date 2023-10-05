@@ -109,4 +109,5 @@ void Logic()
                 prevX = prev2X;
                 prevY = prev2Y;
         }
+        switch (dir)
 }
