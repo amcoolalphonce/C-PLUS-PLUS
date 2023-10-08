@@ -134,4 +134,6 @@ void Logic()
                 y = 0;
         else if (y < 0)
                 y = height - 1;
+
+        for (int i = 0; i < nTail; i++)
 }
