@@ -136,4 +136,6 @@ void Logic()
                 y = height - 1;
 
         for (int i = 0; i < nTail; i++)
+                if (tailX[i] == x && tailY[i] == y)
+
 }
