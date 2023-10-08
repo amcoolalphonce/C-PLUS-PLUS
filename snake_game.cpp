@@ -154,5 +154,6 @@ int main()
         {
                 Draw();
                 Input();
+                Logic();
         }
 }
