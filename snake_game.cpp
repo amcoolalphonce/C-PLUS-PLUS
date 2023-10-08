@@ -153,6 +153,6 @@ int main()
         while (!gameOver)
         {
                 Draw();
-                Unput();
+                Input();
         }
 }
