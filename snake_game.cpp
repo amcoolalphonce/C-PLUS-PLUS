@@ -153,5 +153,6 @@ int main()
         while (!gameOver)
         {
                 Draw();
+                Unput();
         }
 }
