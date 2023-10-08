@@ -140,4 +140,7 @@ void Logic()
                         gameOver = true;
 
         if (x == fruitX && y == fruitY)
+        {
+                
+        }
 }
