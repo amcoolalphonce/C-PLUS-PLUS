@@ -150,4 +150,8 @@ void Logic()
 int main()
 {
         Setup();
+        while (!gameOver)
+        {
+                
+        }
 }
