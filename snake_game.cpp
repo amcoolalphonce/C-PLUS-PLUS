@@ -152,6 +152,6 @@ int main()
         Setup();
         while (!gameOver)
         {
-                
+                Draw();
         }
 }
