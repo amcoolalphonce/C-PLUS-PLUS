@@ -9,5 +9,8 @@ int main()
         for(i = 0; i <= rows; i++)
         {
                 for(j = 1; j <= rows - 1; j++ )
+                {
+                        cout<<" ";
+                }
         }
 }
