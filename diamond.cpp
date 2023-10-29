@@ -20,6 +20,7 @@ int main()
                 for(i = rows-1; i>= 1; i--)
                 {
                         cout<<" ";
+                        for(j= 1; j<=2*i-1; j++)
                 }
         }
 }
