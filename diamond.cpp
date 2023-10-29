@@ -7,4 +7,7 @@ int main()
         cout<<"Enter the numbe rof rows for your diamond"<<endl;
         cin>>rows;
         for(i = 0; i <= rows; i++)
+        {
+                for(j = 1; j <= rows - 1; j++ )
+        }
 }
