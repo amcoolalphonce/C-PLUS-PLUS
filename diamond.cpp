@@ -5,4 +5,5 @@ int main()
 {
         int i,j;
         cout<<"Enter the numbe rof rows for your diamond"<<endl;
+        cin>>rows;
 }
