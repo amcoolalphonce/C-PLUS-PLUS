@@ -18,5 +18,8 @@ int main()
                         cout<<endl;
                 }
                 for(i = rows-1; i>= 1; i--)
+                {
+                        cout<<" ";
+                }
         }
 }
