@@ -16,5 +16,7 @@ int main()
                 case '-':
                 cout<<a-b;
                 case '*':
+                cout<<a*b;
+                
         }
 }
