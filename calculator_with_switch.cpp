@@ -21,5 +21,6 @@ int main()
                 cout<<a/b;
                 break;
                 default:
+                cout<<"INVALID OPERATOR"<<endl;
         }
 }
