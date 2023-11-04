@@ -9,4 +9,6 @@ int main()
         int b = 20;
         cout<<"Enter an Operator "<<endl;
         cin>>op;
+        switch(op)
+        
 }
