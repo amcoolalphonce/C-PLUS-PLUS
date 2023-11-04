@@ -7,4 +7,5 @@ int main()
         char op;
         int a = 40;
         int b = 20;
+        cout<<"Enter an Operator "<<endl;
 }
