@@ -20,5 +20,6 @@ int main()
                 case '/':
                 cout<<a/b;
                 break;
+                default:
         }
 }
