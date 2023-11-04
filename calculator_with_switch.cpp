@@ -23,4 +23,5 @@ int main()
                 default:
                 cout<<"INVALID OPERATOR"<<endl;
         }
+        return 0;
 }
