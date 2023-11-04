@@ -12,5 +12,8 @@ int main()
         switch(op)
         {
                 case '+':
+                cout<<a+b;
+                case '-':
+                cout<<a-b;
         }
 }
