@@ -7,3 +7,4 @@ The code files include the following:
 # Prime numbers
 # Rotate hello world
 # Shutdown
+# Simple Calculator
