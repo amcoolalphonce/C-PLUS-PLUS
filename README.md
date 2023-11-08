@@ -9,3 +9,4 @@ The code files include the following:
 # Shutdown
 # Simple Calculator (4 operations)
 # Size of variables
+# Snake game
