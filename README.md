@@ -5,4 +5,4 @@ The code files include the following:
 # Diamond using loops
 # Largest value in array
 # Prime numbers
-# Rotate hello
+# Rotate hello world
