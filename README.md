@@ -10,3 +10,4 @@ The code files include the following:
 # Simple Calculator (4 operations)
 # Size of variables
 # Snake game
+# Square root
