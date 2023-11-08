@@ -3,3 +3,4 @@ These are working C++ codes that work to impelement varous tasks as studied in  
 The code files include the following:
 # Calculator using  switch case
 # Diamond using loops
+# Largest value in array
