@@ -16,6 +16,6 @@ The code files include the following:
 ### Square root
 ### Sum of  matrices
 ### Swap
-# Temperature converter
-# To do list list
+### Temperature converter
+### To do list list
 ## To add yet
