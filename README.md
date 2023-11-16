@@ -5,6 +5,7 @@ These are working C++ codes that work to impelement varous tasks as studied in  
 The code files include the following:
 ## Table of Contents
 [About](#about)
+[Codes](#codes)
 
 ## Codes
 ### Calculator using  switch case
