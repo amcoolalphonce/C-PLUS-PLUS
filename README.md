@@ -5,8 +5,11 @@ These are working C++ codes that work to impelement varous tasks as studied in  
 The code files include the following:
 ## Table of Contents
 [About](#about)
+
 [Codes](#codes)
+
 [1. Calculator Using switch](#calculator-using-switch-case)
+
 [2. Diamonds using loops](#diamond-using-loops)
 [3. Largest Value in Array](#largest-value-in-array)
 [4. Rotate Hello World](#rotate-hello-world)
