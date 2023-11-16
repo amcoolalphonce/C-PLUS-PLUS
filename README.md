@@ -7,7 +7,7 @@ The code files include the following:
 ### Calculator using  switch case
 ### Diamond using loops
 ### Largest value in array
-# Prime numbers
+### Prime numbers
 # Rotate hello world
 # Shutdown
 # Simple Calculator (4 operations)
