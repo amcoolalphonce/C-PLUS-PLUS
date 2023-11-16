@@ -7,6 +7,7 @@ The code files include the following:
 [About](#about)
 [Codes](#codes)
 [1. Calculator Using switch](#calculator-using-switch-case)
+[2. Diamonds using loops](#diamond-using-loops)
 
 ## Codes
 ### Calculator using  switch case
