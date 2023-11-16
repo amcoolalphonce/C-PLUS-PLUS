@@ -11,7 +11,7 @@ The code files include the following:
 ### Rotate hello world
 ### Shutdown
 ### Simple Calculator (4 operations)
-# Size of variables
+### Size of variables
 # Snake game
 # Square root
 # Sum of  matrices
