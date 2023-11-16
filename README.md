@@ -1,9 +1,10 @@
 # C++
+
 ## About
 These are working C++ codes that work to impelement varous tasks as studied in  C++ Computer Classes. 
 The code files include the following:
 ## Table of Contents
-# Calculator using  switch case
+### Calculator using  switch case
 # Diamond using loops
 # Largest value in array
 # Prime numbers
