@@ -9,8 +9,8 @@ The code files include the following:
 ### Largest value in array
 ### Prime numbers
 ### Rotate hello world
-# ## Shutdown
-# Simple Calculator (4 operations)
+### Shutdown
+### Simple Calculator (4 operations)
 # Size of variables
 # Snake game
 # Square root
