@@ -13,8 +13,8 @@ The code files include the following:
 ### Simple Calculator (4 operations)
 ### Size of variables
 ### Snake game
-# Square root
-# Sum of  matrices
+### Square root
+### Sum of  matrices
 # Swap
 # Temperature converter
 # To do list list
