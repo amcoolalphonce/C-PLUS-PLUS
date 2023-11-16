@@ -11,12 +11,19 @@ The code files include the following:
 [1. Calculator Using switch](#calculator-using-switch-case)
 
 [2. Diamonds using loops](#diamond-using-loops)
+
 [3. Largest Value in Array](#largest-value-in-array)
+
 [4. Rotate Hello World](#rotate-hello-world)
+
 [5. Shutdown](#shutdown)
+
 [6. Simple Calculator](#simple-calculator-4-operations)
+
 [7. Size of Variables](#size-of-variables)
+
 [8. Snake game](#snake-game)
+
 [9. Square root](#square-root)
 
 ## Codes
