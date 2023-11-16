@@ -6,6 +6,7 @@ The code files include the following:
 ## Table of Contents
 [About](#about)
 [Codes](#codes)
+[1. Calculator Using switch](#calculator-using-switch-case)
 
 ## Codes
 ### Calculator using  switch case
