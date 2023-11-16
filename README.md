@@ -13,6 +13,7 @@ The code files include the following:
 [5. Shutdown](#shutdown)
 [6. Simple Calculator](#simple-calculator-4-operations)
 [7. Size of Variables](#size-of-variables)
+[8. Snake game](#snake-game)
 
 ## Codes
 ### Calculator using  switch case
