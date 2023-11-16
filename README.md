@@ -8,6 +8,7 @@ The code files include the following:
 [Codes](#codes)
 [1. Calculator Using switch](#calculator-using-switch-case)
 [2. Diamonds using loops](#diamond-using-loops)
+[3. Largest Value in Array](#largest-value-in-array)
 
 ## Codes
 ### Calculator using  switch case
