@@ -11,6 +11,7 @@ The code files include the following:
 [3. Largest Value in Array](#largest-value-in-array)
 [4. Rotate Hello World](#rotate-hello-world)
 [5. Shutdown](#shutdown)
+[6. Simple Calculator](#simple-calculator-4-operations)
 
 ## Codes
 ### Calculator using  switch case
