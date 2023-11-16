@@ -14,6 +14,7 @@ The code files include the following:
 [6. Simple Calculator](#simple-calculator-4-operations)
 [7. Size of Variables](#size-of-variables)
 [8. Snake game](#snake-game)
+[9. Square root](#square-root)
 
 ## Codes
 ### Calculator using  switch case
