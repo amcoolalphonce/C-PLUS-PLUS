@@ -12,6 +12,7 @@ The code files include the following:
 [4. Rotate Hello World](#rotate-hello-world)
 [5. Shutdown](#shutdown)
 [6. Simple Calculator](#simple-calculator-4-operations)
+[7. Size of Variables](#size-of-variables)
 
 ## Codes
 ### Calculator using  switch case
