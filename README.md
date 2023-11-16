@@ -6,7 +6,7 @@ The code files include the following:
 ## Table of Contents
 ### Calculator using  switch case
 ### Diamond using loops
-# Largest value in array
+### Largest value in array
 # Prime numbers
 # Rotate hello world
 # Shutdown
