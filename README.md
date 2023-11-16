@@ -10,6 +10,7 @@ The code files include the following:
 [2. Diamonds using loops](#diamond-using-loops)
 [3. Largest Value in Array](#largest-value-in-array)
 [4. Rotate Hello World](#rotate-hello-world)
+[5. Shutdown](#shutdown)
 
 ## Codes
 ### Calculator using  switch case
