@@ -31,11 +31,11 @@ The code files include the following:
 #### 4. Prime numbers
 #### 5. Rotate hello world
 #### 6. Shutdown
-### Simple Calculator (4 operations)
-### Size of variables
-### Snake game
-### Square root
-### Sum of  matrices
+### 7. Simple Calculator (4 operations)
+### 8. Size of variables
+### 10. Snake game
+### 11. Square root
+### 12. Sum of  matrices
 ### Swap
 ### Temperature converter
 ### To do list list
