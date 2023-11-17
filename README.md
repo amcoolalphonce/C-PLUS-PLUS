@@ -17,7 +17,7 @@ The code files include the following:
 [9. Square root](#square-root)
 [10. Sum of matrices](#sum-of-matrices)
 [11. Swap](#swap)
-[12. Temperature Converter]
+[12. Temperature Converter](#temperature-converter)
 
 ## Codes
 ### Calculator using  switch case
