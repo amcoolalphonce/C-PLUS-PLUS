@@ -6,6 +6,8 @@ The code files include the following:
 ## Table of Contents
 [About](#about)
 [Codes](#codes)
+[To add yet](#to-add-yet)
+
 [1. Calculator Using switch](#calculator-using-switch-case)
 [2. Diamonds using loops](#diamond-using-loops)
 [3. Largest Value in Array](#largest-value-in-array)
@@ -15,24 +17,19 @@ The code files include the following:
 [7. Size of Variables](#size-of-variables)
 [8. Snake game](#snake-game)
 [9. Square root](#square-root)
-
 [10. Sum of matrices](#sum-of-matrices)
-
 [11. Swap](#swap)
-
 [12. Temperature Converter](#temperature-converter)
-
 [13. To do list](#to-do-list-list)
 
-[To add yet](#to-add-yet)
 
 ## Codes
-### Calculator using  switch case
-### Diamond using loops
-### Largest value in array
-### Prime numbers
-### Rotate hello world
-### Shutdown
+#### Calculator using  switch case
+#### Diamond using loops
+#### Largest value in array
+#### Prime numbers
+#### Rotate hello world
+#### Shutdown
 ### Simple Calculator (4 operations)
 ### Size of variables
 ### Snake game
