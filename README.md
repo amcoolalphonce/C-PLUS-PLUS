@@ -29,8 +29,8 @@ The code files include the following:
 #### 2. Diamond using loops
 #### 3. Largest value in array
 #### 4. Prime numbers
-#### Rotate hello world
-#### Shutdown
+#### 5. Rotate hello world
+#### 6. Shutdown
 ### Simple Calculator (4 operations)
 ### Size of variables
 ### Snake game
