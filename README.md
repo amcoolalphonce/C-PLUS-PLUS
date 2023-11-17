@@ -1,12 +1,13 @@
 # C++
 
-## About
-These are working C++ codes that work to impelement varous tasks as studied in  C++ Computer Classes. 
-The code files include the following:
 ## Table of Contents
 [About](#about)
 [Codes](#codes)
 [To add yet](#to-add-yet)
+
+## About
+These are working C++ codes that work to impelement varous tasks as studied in  C++ Computer Classes. 
+The code files include the following:
 
 [1. Calculator Using switch](#calculator-using-switch-case)
 [2. Diamonds using loops](#diamond-using-loops)
