@@ -27,8 +27,8 @@ The code files include the following:
 ## Codes
 #### 1. Calculator using  switch case
 #### 2. Diamond using loops
-#### Largest value in array
-#### Prime numbers
+#### 3. Largest value in array
+#### 4. Prime numbers
 #### Rotate hello world
 #### Shutdown
 ### Simple Calculator (4 operations)
