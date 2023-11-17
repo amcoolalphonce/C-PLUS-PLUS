@@ -15,6 +15,7 @@ The code files include the following:
 [7. Size of Variables](#size-of-variables)
 [8. Snake game](#snake-game)
 [9. Square root](#square-root)
+[10. Sum of matrices]
 
 ## Codes
 ### Calculator using  switch case
