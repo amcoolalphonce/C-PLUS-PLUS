@@ -18,7 +18,8 @@ The code files include the following:
 [3. Largest Value in Array](#largest-value-in-array)
 
 [4. Prime Numbers](#4-prime-numbers)
-[4. Rotate Hello World](#rotate-hello-world)
+
+[5. Rotate Hello World](#rotate-hello-world)
 
 [5. Shutdown](#shutdown)
 
