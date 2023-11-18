@@ -17,9 +17,7 @@
         [11. Sum of matrices](#sum-of-matrices)
         [12. Swap](#swap)
         [13. Temperature Converter](#temperature-converter)
-
         [14. To do list](#to-do-list-list)
-
         [To add yet](#to-add-yet)
 
 ## About
