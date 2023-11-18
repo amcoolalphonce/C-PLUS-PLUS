@@ -39,8 +39,6 @@ The code files include the following:
 
 [14. To do list](#to-do-list-list)
 
-[14. Temperature Converter](#14-temperature-converter)
-
 
 ## Codes
 #### 1. Calculator using  switch case
