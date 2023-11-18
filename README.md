@@ -37,7 +37,7 @@ The code files include the following:
 
 [13. Temperature Converter](#temperature-converter)
 
-[13. To do list](#to-do-list-list)
+[14. To do list](#to-do-list-list)
 
 [14. Temperature Converter](#14-temperature-converter)
 
@@ -56,7 +56,7 @@ The code files include the following:
 #### 11. Sum of  matrices
 #### 12. Swap
 #### 13. Temperature converter
-#### 15. To do list 
+#### 14. To do list 
 
 
 ## To add yet
