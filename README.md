@@ -35,7 +35,7 @@ The code files include the following:
 
 [12. Swap](#swap)
 
-[12. Temperature Converter](#temperature-converter)
+[13. Temperature Converter](#temperature-converter)
 
 [13. To do list](#to-do-list-list)
 
@@ -55,7 +55,7 @@ The code files include the following:
 #### 10. Square root
 #### 11. Sum of  matrices
 #### 12. Swap
-#### 14. Temperature converter
+#### 13. Temperature converter
 #### 15. To do list 
 
 
