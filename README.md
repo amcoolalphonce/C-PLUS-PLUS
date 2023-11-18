@@ -54,9 +54,7 @@ The code files include the following:
 #### 12. Sum of  matrices
 #### 13. Swap
 #### 14. Temperature converter
-#### 15. To do list list
-#### 16. Temperature converter
-#### 17. To do list list
+#### 15. To do list 
 
 
 ## To add yet
