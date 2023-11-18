@@ -27,7 +27,7 @@ The code files include the following:
 
 [8. Size of Variables](#size-of-variables)
 
-[8. Snake game](#snake-game)
+[9. Snake game](#snake-game)
 
 [9. Square root](#square-root)
 
@@ -51,7 +51,7 @@ The code files include the following:
 #### 6. Shutdown
 #### 7. Simple Calculator (4 operations)
 #### 8. Size of variables
-#### 10. Snake game
+#### 9. Snake game
 #### 11. Square root
 #### 12. Sum of  matrices
 #### 13. Swap
