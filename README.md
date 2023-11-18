@@ -29,7 +29,7 @@ The code files include the following:
 
 [9. Snake game](#snake-game)
 
-[9. Square root](#square-root)
+[10. Square root](#square-root)
 
 [10. Sum of matrices](#sum-of-matrices)
 
@@ -52,7 +52,7 @@ The code files include the following:
 #### 7. Simple Calculator (4 operations)
 #### 8. Size of variables
 #### 9. Snake game
-#### 11. Square root
+#### 10. Square root
 #### 12. Sum of  matrices
 #### 13. Swap
 #### 14. Temperature converter
