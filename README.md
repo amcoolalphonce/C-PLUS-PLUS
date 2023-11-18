@@ -31,7 +31,7 @@ The code files include the following:
 
 [10. Square root](#square-root)
 
-[10. Sum of matrices](#sum-of-matrices)
+[11. Sum of matrices](#sum-of-matrices)
 
 [11. Swap](#swap)
 
@@ -53,7 +53,7 @@ The code files include the following:
 #### 8. Size of variables
 #### 9. Snake game
 #### 10. Square root
-#### 12. Sum of  matrices
+#### 11. Sum of  matrices
 #### 13. Swap
 #### 14. Temperature converter
 #### 15. To do list 
