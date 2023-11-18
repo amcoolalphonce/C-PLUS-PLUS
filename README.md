@@ -17,25 +17,27 @@ The code files include the following:
 
 [3. Largest Value in Array](#largest-value-in-array)
 
-[4. Rotate Hello World](#rotate-hello-world)
+[4. Prime Numbers](#4-prime-numbers)
 
-[5. Shutdown](#shutdown)
+[5. Rotate Hello World](#rotate-hello-world)
 
-[6. Simple Calculator](#simple-calculator-4-operations)
+[6. Shutdown](#shutdown)
 
-[7. Size of Variables](#size-of-variables)
+[7. Simple Calculator](#simple-calculator-4-operations)
 
-[8. Snake game](#snake-game)
+[8. Size of Variables](#size-of-variables)
 
-[9. Square root](#square-root)
+[9. Snake game](#snake-game)
 
-[10. Sum of matrices](#sum-of-matrices)
+[10. Square root](#square-root)
 
-[11. Swap](#swap)
+[11. Sum of matrices](#sum-of-matrices)
 
-[12. Temperature Converter](#temperature-converter)
+[12. Swap](#swap)
 
-[13. To do list](#to-do-list-list)
+[13. Temperature Converter](#temperature-converter)
+
+[14. To do list](#to-do-list-list)
 
 
 ## Codes
@@ -47,10 +49,13 @@ The code files include the following:
 #### 6. Shutdown
 #### 7. Simple Calculator (4 operations)
 #### 8. Size of variables
-#### 10. Snake game
-#### 11. Square root
-#### 12. Sum of  matrices
-#### 13. Swap
-#### 14. Temperature converter
-#### 15. To do list list
+#### 9. Snake game
+#### 10. Square root
+#### 11. Sum of  matrices
+#### 12. Swap
+#### 13. Temperature converter
+#### 14. To do list 
+
+
 ## To add yet
+* Student data management system
