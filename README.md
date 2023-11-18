@@ -18,9 +18,8 @@
         [12. Swap](#swap)
         [13. Temperature Converter](#temperature-converter)
         [14. To do list](#to-do-list-list)
-        [To add yet](#to-add-yet)
 
-[To add yet]
+[To add yet](#to-add-yet)
 
 ## About
 These are working C++ codes that work to impelement varous tasks as studied in  C++ Computer Classes. 
