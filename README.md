@@ -14,11 +14,8 @@
         [8. Size of Variables](#size-of-variables)
         [9. Snake game](#snake-game)
         [10. Square root](#square-root)
-
         [11. Sum of matrices](#sum-of-matrices)
-
         [12. Swap](#swap)
-
         [13. Temperature Converter](#temperature-converter)
 
         [14. To do list](#to-do-list-list)
