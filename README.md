@@ -21,17 +21,17 @@
 
 * [Size of Variables](#size-of-variables)
 
-[9. Snake game](#snake-game)
+* [Snake game](#snake-game)
 
-[10. Square root](#square-root)
+* [Square root](#square-root)
 
-[11. Sum of matrices](#sum-of-matrices)
+* [Sum of matrices](#sum-of-matrices)
 
-[12. Swap](#swap)
+* [Swap](#swap)
 
-[13. Temperature Converter](#temperature-converter)
+* [Temperature Converter](#temperature-converter)
 
-[14. To do list](#to-do-list-list)
+* [To do list](#to-do-list-list)
 
 [To add yet](#to-add-yet)
 
