@@ -9,11 +9,11 @@
 
 * [Diamonds using loops](#diamond-using-loops)
 
-[3. Largest Value in Array](#largest-value-in-array)
+* [Largest Value in Array](#largest-value-in-array)
 
-[4. Prime Numbers](#4-prime-numbers)
+* [Prime Numbers](#4-prime-numbers)
 
-[5. Rotate Hello World](#rotate-hello-world)
+* [Rotate Hello World](#rotate-hello-world)
 
 [6. Shutdown](#shutdown)
 
