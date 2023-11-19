@@ -4,12 +4,19 @@
 [About](#about)
 
 [Codes](#codes)
+
         [1. Calculator Using switch](#calculator-using-switch-case)
+        
         [2. Diamonds using loops](#diamond-using-loops)
+        
         [3. Largest Value in Array](#largest-value-in-array)
+        
         [4. Prime Numbers](#4-prime-numbers)
+        
         [5. Rotate Hello World](#rotate-hello-world)
+        
         [6. Shutdown](#shutdown)
+        
         [7. Simple Calculator](#simple-calculator-4-operations)
         [8. Size of Variables](#size-of-variables)
         [9. Snake game](#snake-game)
