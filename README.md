@@ -5,9 +5,9 @@
 
 [Codes](#codes)
 
-[1. Calculator Using switch](#calculator-using-switch-case)
+* [Calculator Using switch](#calculator-using-switch-case)
 
-[2. Diamonds using loops](#diamond-using-loops)
+* [Diamonds using loops](#diamond-using-loops)
 
 [3. Largest Value in Array](#largest-value-in-array)
 
