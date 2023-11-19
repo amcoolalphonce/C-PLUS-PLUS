@@ -15,11 +15,11 @@
 
 * [Rotate Hello World](#rotate-hello-world)
 
-[6. Shutdown](#shutdown)
+* [Shutdown](#shutdown)
 
-[7. Simple Calculator](#simple-calculator-4-operations)
+* [Simple Calculator](#simple-calculator-4-operations)
 
-[8. Size of Variables](#size-of-variables)
+* [Size of Variables](#size-of-variables)
 
 [9. Snake game](#snake-game)
 
