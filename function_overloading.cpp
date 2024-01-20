@@ -23,4 +23,8 @@ cout<<"\n AREA OF TRIANGLE"<<"="<<0.5*base*height<<endl;
 }
 int main()
 {
+    area();//calling the function for area
+    volume();//calling the function for volume
+    triagle_area();//area of triangle
+    return 0;
 }
